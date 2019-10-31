@@ -1,1 +1,1 @@
-# IP_noise_removal
+# IP_Grayscale_and_metrics
